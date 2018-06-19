@@ -2,6 +2,6 @@
 .DS_Store
 npm-debug.log
 tester.js
-lib
+src
 /out
 /build_for_browser
